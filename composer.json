@@ -1,0 +1,20 @@
+{
+    "name": "avn/contracts",
+    "version": "0.1.0",
+    "description": "Contracts for common usage",
+    "type": "library",
+    "require": {
+        "php": ">=7.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Avn\\Contracts\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alex Vasechkin",
+            "email": "vasechkin.alex.v@gmail.com"
+        }
+    ]
+}
